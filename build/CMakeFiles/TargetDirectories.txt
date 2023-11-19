@@ -1,0 +1,3 @@
+C:/Users/conno/OneDrive/Desktop/Projects/Nebrix-Lang/build/CMakeFiles/nebrix.dir
+C:/Users/conno/OneDrive/Desktop/Projects/Nebrix-Lang/build/CMakeFiles/edit_cache.dir
+C:/Users/conno/OneDrive/Desktop/Projects/Nebrix-Lang/build/CMakeFiles/rebuild_cache.dir
